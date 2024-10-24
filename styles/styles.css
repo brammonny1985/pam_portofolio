@@ -1,0 +1,39 @@
+.header{
+    margin-top: 80px;
+}
+
+#services img{
+    height: 150px;
+}
+
+.lead{
+    text-align: justify;
+}
+
+.img1{
+    border-radius: 900px;
+    
+}
+
+.skill:hover{
+    background-color: aquamarine;
+}
+.skill1:hover{
+    background-color: aquamarine;
+    color: black;
+}
+
+.brand:hover{
+    color: rgb(96, 54, 248);
+}
+
+.lead{
+    text-align: center;
+}
+
+.cv{
+    text-decoration: none;
+}
+
+
+
